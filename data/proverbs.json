@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": 1,
+    "textDari": "دو هندوانه را به یک دست گرفتن ممکن نیست",
+    "textPashto": "په یوه لاس دوه هندوانې نشې نیول کېدای",
+    "translationEn": "You can't hold two watermelons in one hand",
+    "meaning": "Don't take on more than you can handle",
+    "category": "wisdom"
+  },
+  {
+    "id": 2,
+    "textDari": "آب که از سر گذشت، چه یک ذرع چه صد ذرع",
+    "textPashto": "اوبه چې له سره واوړې، فرق نه کوي یوه ګزه که سل",
+    "translationEn": "Once the water passes over your head, the depth doesn’t matter",
+    "meaning": "When things get out of control, the degree no longer matters",
+    "category": "advice"
+  }
+]
